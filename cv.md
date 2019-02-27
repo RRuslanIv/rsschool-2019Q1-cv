@@ -8,7 +8,7 @@
 ### Objectives
 Applying for a position of a Front-end Developer
 
-###Summary
+### Summary   
    I with enthusiasm and a responsibility coming up to new project and bring it to the end. I like to work in team, can to decide conflicts and go on compromise.
 
 ### Skills  
@@ -30,7 +30,7 @@ Course: HTML/CSS [certificate](https://fructcode.com/ru/certificates/fd0a53608e6
 Course: Javascript/jQuery [certificate](https://fructcode.com/ru/certificates/3cfb37c111acc3ae95280357ad80a692/ru/)    
 
 **Feb 2019, Fructcode on-line**  
-Course: Linus/Git/Hosting [certificate](https://fructcode.com/ru/certificates/7f027eaa8e70d4b9a195d0a8b8910d08/ru/)   
+Course: Linux/Git/Hosting [certificate](https://fructcode.com/ru/certificates/7f027eaa8e70d4b9a195d0a8b8910d08/ru/)   
 
 **Jan 2019, Netology on-line**  
 Course: HTML/CSS Basics [certificate](https://netology.ru/sertificate/1525305?p=1&stop=1)  
